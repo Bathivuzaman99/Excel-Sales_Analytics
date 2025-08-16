@@ -35,12 +35,12 @@
 - [x]	Ability to derive fiscal months and quarters.
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-- [x]   
+- [x]	Utilizing DAX to create calculated columns, Safe Divide to derive percentage comparision.
+- [x] Optimuizing the report by differenciating the columns with Conditional and Number Formatting
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with stakeholder's requirements in mind
+- [x]	Designing user-centric reports focused on  stakeholders business requirements 
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
 
